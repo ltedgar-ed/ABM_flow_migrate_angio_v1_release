@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+Simulation Data/
+
+*.mat
+*.mp4
+*.asv
